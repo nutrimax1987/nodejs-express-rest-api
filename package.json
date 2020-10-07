@@ -1,0 +1,15 @@
+{
+  "name": "express-rest-api",
+  "version": "1.0.0",
+  "description": "Express Rest Api example",
+  "main": "index.js",
+  "author": "Maxim Livshitz",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
